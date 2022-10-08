@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+  uic FileScript.ui
+  uic SuffixConfig.ui
+  rcc FileScript.qrc
+  moc FileScript.h
+  moc SuffixConfig.h
+  SuffixConfig.cpp
+  FileScript.cpp
+  main.cpp
+  qrc_FileScript.cpp
+  moc_FileScript.cpp
+  moc_SuffixConfig.cpp
+  FileScript.vcxproj -> D:\TEST\FileScript\FileScript\x64\Release\FileScript.exe
