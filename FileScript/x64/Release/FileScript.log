@@ -10,4 +10,4 @@
   qrc_FileScript.cpp
   moc_FileScript.cpp
   moc_SuffixConfig.cpp
-  FileScript.vcxproj -> D:\TEST\FileScript\FileScript\x64\Release\FileScript.exe
+  FileScript.vcxproj -> D:\code\C++_sample\FileScript\x64\Release\FileScript.exe
