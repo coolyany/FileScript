@@ -1,8 +1,0 @@
-﻿  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
-  SuffixConfig.cpp
-  FileScript.cpp
-  main.cpp
-  qrc_FileScript.cpp
-  moc_FileScript.cpp
-  moc_SuffixConfig.cpp
-  FileScript.vcxproj -> D:\code\C++_sample\FileScript\x64\Debug\FileScript.exe

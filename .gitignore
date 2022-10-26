@@ -2,6 +2,6 @@
 /x64/
 /.vs/
 ##databfile##
-/MyBird/x64/
-/MyBird/*.vcxproj.filters
-/MyBird/*.vcxproj.user
+/FileScript/x64/
+/FileScript/*.vcxproj.filters
+/FileScript/*.vcxproj.user
